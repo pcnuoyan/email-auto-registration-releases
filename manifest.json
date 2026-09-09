@@ -2,9 +2,9 @@
   "schema_version": 1,
   "product": "icloud-hme",
   "channel": "stable",
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "minimum_supported_version": "1.0.0",
-  "published_at": "2026-09-09T00:00:00Z",
-  "release_notes_url": "https://github.com/pcnuoyan/email-auto-registration-releases/blob/main/releases/v1.0.0.md",
+  "published_at": "2026-09-09T15:18:59Z",
+  "release_notes_url": "https://github.com/pcnuoyan/email-auto-registration-releases/blob/main/releases/v1.1.0.md",
   "update_mode": "manual"
 }
