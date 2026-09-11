@@ -13,6 +13,7 @@
 - `latest_version` 只指向已经完成验证、可以部署的稳定版本。
 - 应用只检查并展示新版本，不从该仓库下载或自动执行更新。
 - Docker 更新继续由管理员在部署宿主机上完成。
+- `main` 受保护，外部提交必须通过 Pull Request 并由 Code Owner `@pcnuoyan` 批准；详细规则见 [`CONTRIBUTING.md`](./CONTRIBUTING.md)。
 
 ## 安全边界
 
